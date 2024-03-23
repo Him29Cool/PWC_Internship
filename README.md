@@ -21,8 +21,19 @@ Average speed of answer<br>
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered<br>
 Looking for transparency<br> 
 
+**Steps:** <br>
+Required data gethuring.<br>
+Data preprocessing.<br>
+Data Modeling.<br>
+Create Measure<br>
+Visualizations<br>
+Presentation<br>
+
+
+
 **Tools:** <br>
-Power BI<br>
+Power BI Desktop<br>
+Power BI Services<br>
 Advance Excel<br>
 Email<br>
 
