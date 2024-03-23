@@ -38,6 +38,11 @@ Advance Excel<br>
 Email<br>
 
 **Results:**<br>
+Overall customer satisfaction: **3.40** <br>
+Overall calls answered/abandoned: **81%** <br>
+Calls by time: **182.70 Sec** <br>
+Average speed of answer: **67.52** <br>
+Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: **Becky is best perfoermer**
 
 
 
